@@ -1,0 +1,9 @@
+{
+	"csv_per_file_setting":
+	[
+		{
+			"file": "D:\\Work Space Kuri\\rlife\\src\\Life\\ApplyBundle\\Tests\\Controller\\PlanController\\RiderRegistAction\\TestData\\session_order_plan.csv",
+			"use_header": true
+		}
+	]
+}
