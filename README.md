@@ -1,4 +1,11 @@
-# settings-and-stuff
-All kinds of stuff
-
-
+# Sublime Packages
+* Advanced CSV
+* AngularJs
+* DocBlockr
+* Git
+* GotoDocumentation
+* PHPUnit
+* sublimerge
+* ConvertToUTF8
+* SublimeCodeIntel
+* SublimeLinter
