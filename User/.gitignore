@@ -24,6 +24,10 @@ Package\ Control.ca-certs/
 bh_unicode_properties.cache
 encoding_cache.json
 
+# sublime REPL
+.SublimeREPLHistory/
+
+
 # Sublime-github package stores a github token in this file
 # https://packagecontrol.io/packages/sublime-github
 GitHub.sublime-settings
