@@ -1,2 +1,5 @@
 {
+    "python_linting": false,
+    "open_pydoc_in_view": true,
+    "auto_complete_triggers": [{"selector": "source.python - string - comment - constant.numeric", "characters": "."}]
 }
