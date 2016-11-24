@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"IMESupport"
 	],
 	"installed_packages":
 	[
@@ -12,6 +11,7 @@
 		"DocBlockr",
 		"Git",
 		"GotoDocumentation",
+		"HTML-CSS-JS Prettify",
 		"IMESupport",
 		"Indent XML",
 		"Package Control",
