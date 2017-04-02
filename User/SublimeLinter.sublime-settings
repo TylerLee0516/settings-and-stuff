@@ -7,6 +7,19 @@
         "gutter_theme_excludes": [],
         "lint_mode": "background",
         "linters": {
+            "javac": {
+                "@disable": false,
+                "args": [
+                    "-encoding",
+                    "UTF8",
+                    "-cp",
+                    "${project}/lib/order-api-client.jar",
+                    "-sourcepath",
+                    "${project}/src/main/java/"
+                ],
+                "excludes": [],
+                "lint": ""
+            },
             "php": {
                 "@disable": false,
                 "args": [],
