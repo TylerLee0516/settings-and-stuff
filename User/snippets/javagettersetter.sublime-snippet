@@ -1,0 +1,15 @@
+<snippet>
+<content><![CDATA[
+public ${1:String} get${2:SubscriberNumber}() {
+    return ${3:subscriberNumber};
+}
+
+public void set${2:SubscriberNumber}(${1:String} ${3:subscriberNumber}) {
+    this.${3:subscriberNumber} = ${3:subscriberNumber};
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <!-- <tabTrigger>javags</tabTrigger> -->
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.java</scope> -->
+</snippet>
