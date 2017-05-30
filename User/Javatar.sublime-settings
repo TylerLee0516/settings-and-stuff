@@ -18,13 +18,12 @@
 	"message_id": 20,
 	"project_data":
 	{
-		"18": null,
-		"19":
+		"6":
 		{
 			"folders":
 			[
 				{
-					"path": "."
+					"path": "/Users/ke.li/workspace/hoken_angular"
 				}
 			]
 		}

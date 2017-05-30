@@ -11,14 +11,14 @@
 	[
 		"本人確認書類の提出"
 	],
+	"match_brackets": false,
+	"match_brackets_braces": false,
+	"match_brackets_content": false,
+	"match_brackets_square": false,
+	"match_tags": false,
 	"show_encoding": true,
 	"show_line_endings": true,
 	"tab_size": 4,
 	"theme": "Phoenix Dark.sublime-theme",
-	"translate_tabs_to_spaces": true,
-    "match_brackets": false,
-    "match_brackets_content": false,
-    "match_brackets_square": false,
-    "match_brackets_braces": false,
-    "match_tags": false,
+	"translate_tabs_to_spaces": true
 }
