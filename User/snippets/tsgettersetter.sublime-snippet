@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+public get${1:PropertyName}(): ${2:string} {
+    return this.${3:propertyName};
+}
+public set${1:PropertyName}(${3:propertyName}: ${2:string}) {
+    this.${3:propertyName} = ${3:propertyName};
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <!-- <tabTrigger>hello</tabTrigger> -->
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

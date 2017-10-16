@@ -1,15 +1,15 @@
 {
 	"jdk_version":
 	{
-		"JDK1.7.0u79":
+		"JDK1.7.0u60":
 		{
-			"path": "/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/bin",
-			"update": "79",
+			"path": "C:\\Program Files\\Java\\jdk1.7.0_60\\bin",
+			"update": "60",
 			"version": "1.7.0"
 		},
 		"JDK1.8.0u121":
 		{
-			"path": "/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/bin",
+			"path": "C:\\Program Files\\Java\\jdk1.8.0_121\\bin",
 			"update": "121",
 			"version": "1.8.0"
 		},
@@ -18,12 +18,21 @@
 	"message_id": 20,
 	"project_data":
 	{
-		"6":
+		"2":
 		{
 			"folders":
 			[
 				{
-					"path": "/Users/ke.li/workspace/hoken_angular"
+					"path": "D:\\WorkSpaceKuri\\hoken_angular"
+				}
+			]
+		},
+		"4":
+		{
+			"folders":
+			[
+				{
+					"path": "D:\\WorkSpaceKuri\\settings-and-stuff"
 				}
 			]
 		}

@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"IMESupport"
 	],
 	"installed_packages":
 	[
@@ -27,11 +26,11 @@
 		"PHPUnit Completions",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-javac",
 		"SublimeLinter-php",
 		"SublimeREPL",
 		"Sublimerge Pro",
 		"Theme - Phoenix",
+		"TrailingSpaces",
 		"TypeScript"
 	]
 }
