@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"IMESupport"
 	],
 	"installed_packages":
 	[
@@ -16,7 +17,6 @@
 		"HTML-CSS-JS Prettify",
 		"IMESupport",
 		"Indent XML",
-		"Javatar",
 		"JDebug",
 		"LESS",
 		"Origami",

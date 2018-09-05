@@ -7,34 +7,11 @@
 			"update": "60",
 			"version": "1.7.0"
 		},
-		"JDK1.8.0u121":
-		{
-			"path": "C:\\Program Files\\Java\\jdk1.8.0_121\\bin",
-			"update": "121",
-			"version": "1.8.0"
-		},
-		"use": ""
+		"use": "JDK1.7.0u60"
 	},
 	"message_id": 20,
 	"project_data":
 	{
-		"2":
-		{
-			"folders":
-			[
-				{
-					"path": "D:\\WorkSpaceKuri\\hoken_angular"
-				}
-			]
-		},
-		"4":
-		{
-			"folders":
-			[
-				{
-					"path": "D:\\WorkSpaceKuri\\settings-and-stuff"
-				}
-			]
-		}
+		"2": null
 	}
 }
