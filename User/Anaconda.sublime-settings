@@ -1,4 +1,5 @@
 {
     "anaconda_gutter_theme": "retina",
-    "complete_parameters": true
+    "complete_parameters": true,
+    "pep8_max_line_length": 99,
 }
