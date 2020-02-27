@@ -1,51 +1,7 @@
 {
-	"jdk_version":
-	{
-		"JDK11.0.2":
-		{
-			"path": "/Library/Java/JavaVirtualMachines/openjdk-11.0.2.jdk/Contents/Home/bin",
-			"version": "11.0.2"
-		},
-		"use": ""
-	},
 	"message_id": 20,
 	"project_data":
 	{
-		"2":
-		{
-			"build_systems":
-			[
-				{
-					"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
-					"name": "Anaconda Python Builder",
-					"selector": "source.python",
-					"shell_cmd": "\"python\" -u \"$file\""
-				}
-			],
-			"folders":
-			[
-				{
-					"path": "/Users/kli/work/oracle-ops-tools"
-				}
-			]
-		},
-		"3":
-		{
-			"folders":
-			[
-				{
-					"path": "/Users/kli/work/availability-checker"
-				}
-			]
-		},
-		"5":
-		{
-			"folders":
-			[
-				{
-					"path": "/Users/kli/work/cheatsheet"
-				}
-			]
-		}
+		"2": null
 	}
 }

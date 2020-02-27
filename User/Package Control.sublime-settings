@@ -2,39 +2,24 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"IMESupport"
 	],
 	"installed_packages":
 	[
 		"10% Too Dull for My Tastes Color Scheme",
 		"Advanced CSV",
 		"Anaconda",
-		"Angular 2 Snippets (John Papa)",
 		"BracketHighlighter",
 		"ConvertToUTF8",
-		"DocBlockr",
 		"Git",
 		"GotoDocumentation",
 		"HTML-CSS-JS Prettify",
 		"IMESupport",
 		"Indent XML",
-		"Javatar",
-		"JDebug",
-		"LESS",
 		"Origami",
 		"Package Control",
-		"PHP Getters and Setters",
-		"PHPUnit",
-		"PHPUnit Completions",
 		"Python Debugger",
 		"SqlBeautifier",
-		"SublimeCodeIntel",
-		"SublimeLinter",
-		"SublimeLinter-php",
-		"SublimeREPL",
-		"Sublimerge Pro",
 		"Theme - Phoenix",
-		"TrailingSpaces",
-		"TypeScript"
+		"TrailingSpaces"
 	]
 }
